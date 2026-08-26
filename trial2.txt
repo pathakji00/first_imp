@@ -4,3 +4,5 @@ this is for experimenting merging conflicts as some changes done in same file bu
 this is dummy for testing out branching,merging and resolving merging conflicts
 
 changing something for learning stashing ,after deleting a branch and manually merging and solving conflicts
+
+learning git tag ,first we make version 1 then re editing this line for version 2
