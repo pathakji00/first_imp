@@ -61,6 +61,10 @@ int iterator_func(string a){
     string :: iterator it;
     string :: reverse_iterator itr;
 }
+int number(int a){
+    cout<<a<<endl;
+    
+}
 
 int main()
 {
